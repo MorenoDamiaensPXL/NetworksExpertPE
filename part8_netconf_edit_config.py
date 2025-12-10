@@ -16,7 +16,7 @@ print()
 
 # Router configuratie - PAS DIT AAN NAAR JOUW ROUTER
 ROUTER_CONFIG = {
-    "host": "192.168.56.107",
+    "host": "10.176.161.43",
     "port": 830,
     "username": "cisco",
     "password": "cisco123!",

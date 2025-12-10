@@ -15,7 +15,7 @@ print()
 
 # Router configuratie - PAS DIT AAN NAAR JOUW ROUTER
 ROUTER_CONFIG = {
-    "host": "192.168.56.107",  # IP adres van je CSR1000v
+    "host": "10.176.161.43",  # IP adres van je CSR1000v
     "port": 830,
     "username": "cisco",
     "password": "cisco123!",

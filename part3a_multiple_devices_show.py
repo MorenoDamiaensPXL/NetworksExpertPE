@@ -12,7 +12,7 @@ from datetime import datetime
 devices = [
     {
         "device_type": "cisco_ios",
-        "host": "192.168.56.107",
+        "host": "10.176.161.43",
         "port": 22,
         "username": "cisco",
         "password": "cisco123!",

@@ -18,7 +18,7 @@ print(f"Datum/Tijd: {datetime.datetime.now()}")
 print()
 
 # Router configuratie - PAS DIT AAN NAAR JOUW ROUTER
-IP_ADDRESS = "192.168.56.107"
+IP_ADDRESS = "10.176.161.43"
 RESTCONF_USERNAME = "cisco"
 RESTCONF_PASSWORD = "cisco123!"
 

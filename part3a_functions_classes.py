@@ -126,7 +126,7 @@ if __name__ == "__main__":
     
     # Maak router object - PAS DIT AAN NAAR JOUW ROUTER
     router = CiscoRouter(
-        host="192.168.56.107",
+        host="10.176.161.43",
         username="cisco",
         password="cisco123!"
     )

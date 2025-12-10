@@ -14,7 +14,7 @@ print(f"Datum/Tijd: {datetime.datetime.now()}")
 print()
 
 # Router configuratie - PAS DIT AAN NAAR JOUW ROUTER
-ROUTER_IP = "192.168.56.107"
+ROUTER_IP = "10.176.161.43"
 ROUTER_PORT = 830
 ROUTER_USER = "cisco"
 ROUTER_PASS = "cisco123!"
